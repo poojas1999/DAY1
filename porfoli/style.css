@@ -1,0 +1,34 @@
+#first
+{
+    margin:50px;
+    padding:50px;
+    display:flex;
+    justify-content:center;
+    align-items: center;
+    color:brown;
+}
+.nav{
+    display:flex;
+    justify-content: flex-end;
+    color:blue;
+    background-color: darkgray;
+    
+}
+#ab{
+    color:blue;
+}
+#second{
+    display: flex;
+    justify-content:center;
+    margin:0;
+}
+#main{
+    padding: 20px;
+    
+}
+.col-md-6{
+    background-color: darkgray;
+}
+.body{
+    background-color: aqua;
+}
